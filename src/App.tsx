@@ -14,9 +14,6 @@ import {
   ExternalLink,
   Calendar,
   School,
-  Database,
-  Smartphone,
-  Globe,
   Server
 } from 'lucide-react'
 
